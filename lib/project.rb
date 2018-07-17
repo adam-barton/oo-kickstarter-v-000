@@ -12,9 +12,9 @@ class Project
     @backers << backer
   end
 
-  def backers(backer)
-    @backers << backer
-  end
+  # def backers(backer)
+  #   @backers << backer
+  # end
 
 
 end
